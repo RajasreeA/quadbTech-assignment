@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quadbTech-assignment/static/css/main.1d605f66.css",
+    "main.js": "/quadbTech-assignment/static/js/main.ed463cf2.js",
+    "static/js/787.5d5ea81f.chunk.js": "/quadbTech-assignment/static/js/787.5d5ea81f.chunk.js",
+    "index.html": "/quadbTech-assignment/index.html",
+    "main.1d605f66.css.map": "/quadbTech-assignment/static/css/main.1d605f66.css.map",
+    "main.ed463cf2.js.map": "/quadbTech-assignment/static/js/main.ed463cf2.js.map",
+    "787.5d5ea81f.chunk.js.map": "/quadbTech-assignment/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d605f66.css",
+    "static/js/main.ed463cf2.js"
+  ]
+}
